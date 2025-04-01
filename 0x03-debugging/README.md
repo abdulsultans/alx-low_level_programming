@@ -2,6 +2,6 @@
 
 Learning howing to debug code by:
     
-    -Fixing errors
-    -Commenting out codes
-    -Fixing logical errors
+- Fixing errors
+- Commenting out codes
+- Fixing logical errors
