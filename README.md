@@ -1,2 +1,2 @@
 # ALX Low-level Programming
-Will be programming in C
+programming in C is fun, isn't it?
