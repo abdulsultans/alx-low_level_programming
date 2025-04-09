@@ -3,7 +3,8 @@
 void _puts(char *str)
 {
     // Loop through each character in the string and print it
-    while (*str != '\0') {
+    while (*str != '\0') 
+    {
         putchar(*str);
         str++;  // Move to the next character in the string
     }
