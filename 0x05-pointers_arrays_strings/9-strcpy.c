@@ -5,7 +5,8 @@ char *_strcpy(char *dest, char *src)
     int i = 0;
 
     // Copy characters from src to dest, including the null byte
-    while (src[i] != '\0') {
+    while (src[i] != '\0') 
+    {
         dest[i] = src[i];
         i++;
     }
