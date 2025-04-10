@@ -4,7 +4,8 @@ void puts_half(char *str)
 {
     // Find the length of the string
     int length = 0;
-    while (str[length] != '\0') {
+    while (str[length] != '\0') 
+    {
         length++;
     }
 
@@ -12,7 +13,8 @@ void puts_half(char *str)
     int start_index = (length + 1) / 2;
 
     // Print the second half of the string
-    while (str[start_index] != '\0') {
+    while (str[start_index] != '\0') 
+    {
         putchar(str[start_index]);
         start_index++;
     }
